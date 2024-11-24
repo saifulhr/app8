@@ -32,12 +32,6 @@ class _MyAppState extends State<MyApp> {
       'desc': 'Delicate and refreshing with, delicious soft fruit flavours',
       'price': '\$16.95',
     },
-    {
-      'images': 'assets/images/download.jpg',
-      'title': 'The Lady Hamilton',
-      'desc': 'Vibrant pink in colour with final aramas, this medium boldled xjdghkjdzshgk zdskjgh dszkfghzdjklf ghzkjd ghkjlh',
-      'price': '\$16.95',
-    },
   ];
   @override
   Widget build(BuildContext context) {
